@@ -1,1 +1,0 @@
-(cd $OPENSHIFT_REPO_DIR/scrapejobs/; scrapy crawl dost)
