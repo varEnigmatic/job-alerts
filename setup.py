@@ -6,5 +6,5 @@ setup(name='YourAppName',
       author='Your Name',
       author_email='example@example.com',
       url='http://www.python.org/sigs/distutils-sig/',
-      install_requires=['python-dateutil>=2.5.3', 'feedparser>=5.2.1'],
+      install_requires=['python-dateutil', 'feedparser>=5.2.1'],
      )
