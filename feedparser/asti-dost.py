@@ -6,8 +6,8 @@ import smtplib
 from email.parser import Parser
 
 
-#f = feedparser.parse('http://www.asti.dost.gov.ph/job-opportunities?format=feed&type=rss')
-f = feedparser.parse('http://twitrss.me/twitter_user_to_rss/?user=intel')
+f = feedparser.parse('http://www.asti.dost.gov.ph/job-opportunities?format=feed&type=rss')
+#f = feedparser.parse('http://twitrss.me/twitter_user_to_rss/?user=intel')
 
 print "Date now in UTC: "
 print datetime.utcnow()

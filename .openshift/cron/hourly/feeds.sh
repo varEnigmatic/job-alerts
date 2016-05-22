@@ -1,1 +1,1 @@
-$OPENSHIFT_REPO_DIR/feedparser/asti-dost.py
+(cd $OPENSHIFT_REPO_DIR/feedparser/; python asti-dost.py)
